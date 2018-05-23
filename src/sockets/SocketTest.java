@@ -12,6 +12,8 @@ public class SocketTest {
 		 server1.setOnServer();	 
 	     client1.getFeedBack();
 	     System.out.println("Finish");
+         //System.out.println("Finish");
+
 	}
 
 }
