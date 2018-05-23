@@ -11,7 +11,7 @@ public class SocketTest {
 		 ClientSocket client1 = new ClientSocket();
 		 server1.setOnServer();	 
 	     client1.getFeedBack();
-	    
+	     //System.out.println("Finish");
 	}
 
 }
